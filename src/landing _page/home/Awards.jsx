@@ -3,9 +3,9 @@ import React from "react";
 function Awards() {
   return (
     <div className="container mt-5">
-      <div className=" row">
-        <div className="col-6">
-          <img src="media/images/largestBroker.svg" alt="Broker " />
+      <div className=" row mx-5">
+        <div className="col-6" >
+          <img src="media/images/largestBroker.svg" alt="Broker " style={{width:"70%"}}  />
         </div>
         <div className="col-6">
           <h1>Largest stock broker in Inida</h1>
